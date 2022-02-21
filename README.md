@@ -11,7 +11,6 @@
 - Player's points increase on collecting coins whereas the plyer loses on coming in contact with the moving/ static enemies.
 - Difficulty of the game increases with progress.
 - 'L' key can be used to toggle the lights. When the lights are on, only some area surrounding the player will be visible while the rest of the world will go dark. However, playing in dark will give more points to the player.
-- for more details refer to [this doc](Escape-man.pdf)
 
 ## Game Render
 
